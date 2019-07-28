@@ -1,1 +1,1 @@
-# Prediction-Of-Iris-Species
+# Prediction Of Iris Species
